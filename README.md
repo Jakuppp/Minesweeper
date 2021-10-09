@@ -8,7 +8,7 @@
 
 # Table of contents
 
-* [**Playing the terminal version**](#_💣_Minesweeper)
+* [**Playing the terminal version**](# 💣_Minesweeper)
 * [**Twitter bot**](#_💣_Twitter_bot)
     * [*Installing the bot*](###_Installing_the_bot)
     * [*Setting up the bot*](###_Setting_up_the_bot)
