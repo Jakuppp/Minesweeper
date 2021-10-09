@@ -8,12 +8,12 @@
 
 # Table of contents
 
-* [**Playing the terminal version**](#💣_Minesweeper)
-* [**Twitter bot**](#_💣_Twitter_bot)
-    * [*Installing the bot*](###_Installing_the_bot)
-    * [*Setting up the bot*](###_Setting_up_the_bot)
-    * [*Launching the bot*](###_Launching_the_bot)
-    * [*Checking error logs*](###_Checking_error_logs)
+* [**Playing the terminal version**](#💣-Minesweeper)
+* [**Twitter bot**](#💣-Twitter_bot)
+    * [*Installing the bot*](###Installing-the-bot)
+    * [*Setting up the bot*](###Setting-up-the-bot)
+    * [*Launching the bot*](###Launching-the-bot)
+    * [*Checking error logs*](###Checking-error-logs)
 
 # 💣 Minesweeper
 
