@@ -10,10 +10,10 @@
 
 * [Playing the terminal version](#💣-Minesweeper)
 * [Twitter bot](#💣-Twitter-bot)
-    * [Installing the bot](###Installing-the-bot)
-    * [Setting up the bot](###Setting-up-the-bot)
-    * [Launching the bot](###Launching-the-bot)
-    * [Checking error logs](###Checking-error-logs)
+    * [Installing the bot](#Installing-the-bot)
+    * [Setting up the bot](#Setting-up-the-bot)
+    * [Launching the bot](#Launching-the-bot)
+    * [Checking error logs](#Checking-error-logs)
 
 # 💣 Minesweeper
 
