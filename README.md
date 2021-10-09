@@ -8,14 +8,14 @@
 
 # Table of contents
 
-* [Playing the terminal version](#💣-Minesweeper)
-* [Twitter bot](#💣-Twitter-bot)
-    * [Installing the bot](#Installing-the-bot)
-    * [Setting up the bot](#Setting-up-the-bot)
-    * [Launching the bot](#Launching-the-bot)
-    * [Checking error logs](#Checking-error-logs)
+* **[Playing the terminal version](#Minesweeper)**
+* **[Twitter bot](#Twitter-bot)**
+    * *[Installing the bot](#Installing-the-bot)*
+    * *[Setting up the bot](#Setting-up-the-bot)*
+    * *[Launching the bot](#Launching-the-bot)*
+    * *[Checking error logs](#Checking-error-logs)*
 
-# 💣 Minesweeper
+# Minesweeper
 
 > To play the game:<br/>
 > Make sure, that you have Python v.3.9+ and Git installed<br/>
@@ -29,7 +29,7 @@ Minesweeper/Scripts>>> python game_manager.py
 
 > Enjoy!
 
-# 💣 Twitter bot
+# Twitter bot
 
 ### Installing the bot
 
