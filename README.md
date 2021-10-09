@@ -8,17 +8,17 @@
 
 # Table of contents
 
-* [**Playing the terminal version**](#-💣-Minesweeper)
-* [**Twitter bot**](#-💣-Twitter-bot)
-    * [*Installing the bot*](###-Installing-the-bot)
-    * [*Setting up the bot*](###-Setting-up-the-bot)
-    * [*Launching the bot*](###-Launching-the-bot)
-    * [*Checking error logs*](###-Checking-error-logs)
+* [**Playing the terminal version**](# 💣-Minesweeper)
+* [**Twitter bot**](# 💣-Twitter-bot)
+    * [*Installing the bot*](### Installing-the-bot)
+    * [*Setting up the bot*](### Setting-up-the-bot)
+    * [*Launching the bot*](### Launching-the-bot)
+    * [*Checking error logs*](### Checking-error-logs)
 
 # 💣 Minesweeper
 
-> To play the game:
-> Make sure, that you have Python v.3.9+ and Git installed
+> To play the game:<br/>
+> Make sure, that you have Python v.3.9+ and Git installed<br/>
 > Next, type the following in your terminal:
 
 ```python
@@ -33,8 +33,8 @@ Minesweeper/Scripts>>> python game_manager.py
 
 ### Installing the bot
 
-> To install the bot:
-> Make sure that you have Python v.3.9+ and Git installed
+> To install the bot:<br/>
+> Make sure that you have Python v.3.9+ and Git installed<br/>
 > Next, type the following in your terminal:
 
 ```python
@@ -44,7 +44,7 @@ Minesweeper/Scripts>>> python game_manager.py
 
 ### Setting up the bot
 
-> To set up the bot make a Twitter developer account and a "Search Tweets: 30-Days/Sandbox" dev environment.
+> To set up the bot make a Twitter developer account and a "Search Tweets: 30-Days/Sandbox" dev environment.<br/>
 > Next, input all of the neccesary credentials into the [.env file](Twitter_Version/.env)
 
 *.env file*
