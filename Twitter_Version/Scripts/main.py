@@ -14,7 +14,7 @@ from other import *
 if __name__ == '__main__':
 
     # Create a connection to the database
-    con = sqlite3.connect('Twitter Version\logs.db')
+    con = sqlite3.connect('Twitter_Version\logs.db')
     cur = con.cursor()
 
     # Create the table with the exception logs
