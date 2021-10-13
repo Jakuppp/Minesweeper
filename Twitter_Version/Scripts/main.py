@@ -14,18 +14,18 @@ from other import *
 if __name__ == '__main__':
 
     # Create a connection to the database
-    con = sqlite3.connect('Twitter_Version\logs.db')
+    con = sqlite3.connect('logs.db')
     cur = con.cursor()
-
+  
     # Create the table with the exception logs
     try:
         cur.execute('''CREATE TABLE exceptions (exception_time, exception_type, exception_value, traceback)''')
         con.commit()
     except Exception as exception:
-        exception_info = sys.exc_info(exception)
+        exception_info = sys.exc_info()
         cur.execute("INSERT INTO exceptions (exception_time, exception_type, exception_value, traceback) VALUES (?, ?, ?, ?)", (datetime.datetime.now().strftime('%m/%d/%Y, %H:%M:%S'), exception_info[0].__name__, f'{exception_info[1]}', f'{exception_info[2].tb_frame}'))
         con.commit()
-    
+
     # Store all of the necessary credentials
     dotenv.load_dotenv()
     API_KEY=os.getenv('API_KEY')

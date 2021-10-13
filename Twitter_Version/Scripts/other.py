@@ -3,7 +3,7 @@ import sys
 import datetime
 
 # Create a connection to the database
-con = sqlite3.connect('Twitter_Version\logs.db')
+con = sqlite3.connect('logs.db')
 cur = con.cursor()
 
 def transform_input(input: str) -> tuple:
